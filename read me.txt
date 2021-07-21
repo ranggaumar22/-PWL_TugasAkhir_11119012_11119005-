@@ -1,0 +1,8 @@
+Tugas Akhir PWL
+
+Nama Program : Manajemen Data Sekolah
+Anggota :
+-11119012 - Reyhan Sabian
+-11119005 - Rangga Umar P.
+
+Note: Program dimulai dari login.php terlebih dahulu.
